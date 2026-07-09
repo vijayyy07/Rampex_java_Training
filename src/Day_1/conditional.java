@@ -17,6 +17,7 @@ public class conditional {
             else{
                 System.out.println("Greaterthan 10");
             }
+            sc.close();
         }
 
 }

@@ -1,5 +1,6 @@
 package Day_17;
 
+import java.util.Arrays;
 public class RemoveDup2 {
     public static void main(String[]args){
         int []arr={1,2,3,4,4};

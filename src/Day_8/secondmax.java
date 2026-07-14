@@ -1,4 +1,4 @@
-package day_8.class_task;
+package Day_8;
 
 public class secondmax {
     public static void main(String[] args){

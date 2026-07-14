@@ -1,4 +1,4 @@
-package Day_8.class_task;
+package Day_8;
 
 public class Total_bill {
 

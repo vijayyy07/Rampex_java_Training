@@ -1,4 +1,4 @@
 package Day_7;
 
-public class Ytotal {
+public class total {
 }
